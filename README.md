@@ -6,6 +6,6 @@ Barnardo's is a British charity founded by Thomas John Barnardo in 1866, to care
 - Doohickeys
 
 ## Tools we use (and why)
-- [Google Docs] (docs.google.com) allows us to collaborate on documents on any device
-- [Trello] (trello.com) Allows us to organise and prioritise tasks in an open and easy way
-- [Slack] (slack.com) share pictures of cats and cake schedules
+- [Google Docs](docs.google.com) allows us to collaborate on documents on any device
+- [Trello](trello.com) Allows us to organise and prioritise tasks in an open and easy way
+- [Slack](slack.com) share pictures of cats and cake schedules
